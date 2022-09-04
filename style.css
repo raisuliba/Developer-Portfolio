@@ -61,3 +61,14 @@ body{
     border-radius: 20px;
     box-shadow: 10px 10px 30px gray;
 }
+#orange{
+    border-left: 7px solid royalblue;
+}
+#green{
+    border-left: 7px solid gold;
+}
+footer p{
+    color: gray;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+}
