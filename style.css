@@ -3,22 +3,24 @@ body{
     margin: 0px;
 }
 .lighting{
-    font-size: 50px;
+    font-size: 100px;
     color: green;
 }
 
-section{
+.flexible-container{
     display: flex;
-    margin-bottom: 200px;
+    margin-bottom: 50px;
 }
-
+.dream{
+    font-size: 80px;
+}
 .half-width{
     width: 50%;
     padding: 5%;
 }
 
 .half-width img{
-    width: 70%;
+    width: 90%;
 }
 .Link-button{
     text-decoration: none;
