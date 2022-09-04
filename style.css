@@ -2,6 +2,7 @@ body{
     font-family: 'Poppins', sans-serif;
     margin: 0px;
 }
+
 .lighting{
     font-size: 100px;
     color: green;
@@ -11,13 +12,16 @@ body{
     display: flex;
     margin-bottom: 50px;
 }
+
 .dream{
     font-size: 80px;
 }
+
 .Big-font{
     font-size: 40px;
-    margin-left: 5%;
+    margin-left: 2%;
 }
+
 .half-width{
     width: 50%;
     padding: 5%;
@@ -26,6 +30,7 @@ body{
 .half-width img{
     width: 90%;
 }
+
 .Link-button{
     text-decoration: none;
     background-image: linear-gradient(green, yellow);
@@ -34,12 +39,25 @@ body{
     font-weight: 700;
     border-radius: 8px;
 }
+
 .top-banner{
     background-image: url(images/top-banner.png);
+    background-repeat: no-repeat;
+}
+
+.experience-area{
+    background-image: url(images/exp-bg.png);
     background-repeat: no-repeat;
 }
 .dream-big{
     background-image: url(images/dream-bg.png);
     background-repeat: no-repeat;
     background-position: right;
+}
+.half-width-2{
+    width: 25%;
+    margin: 2% 2%;
+    padding-left: 10px;
+    border-radius: 20px;
+    box-shadow: 10px 10px 30px gray;
 }
